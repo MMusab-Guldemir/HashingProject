@@ -14,6 +14,8 @@ namespace HashingAlgorithm.Console.App
     {
         static void Main(string[] args)
         {
+
+            string plainText = "Hello World";
             /*
              * In this example, I believe it is a straightforward
                call or invoke of the method
