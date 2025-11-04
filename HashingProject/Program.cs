@@ -6,7 +6,7 @@ namespace HashingAlgorith.SHA256.Example
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
 
             string rawData = "I love C#";
