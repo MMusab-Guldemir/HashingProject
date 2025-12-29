@@ -7,8 +7,8 @@ namespace HashingAlgorith.SHA256.Example
     class Program
     {
         static void Main(string[] args) 
-        {
-
+        {   
+               /// I Love yiğti abi
             string rawData = "I love C#";
             string result = string.Empty;
 
